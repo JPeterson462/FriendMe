@@ -4,6 +4,7 @@ import me.CopyableCougar4.main.FriendMe.Type;
 
 import org.bukkit.entity.Player;
 
+// Static Utility Class, Request.java
 public class Request {
 	
 	public static void send(Player sender, Player to){
